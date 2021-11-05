@@ -254,7 +254,7 @@ import zeta from "./zeta.scss";
 import zlot from "./zlot.scss";
 import zoocoin from "./zoocoin.scss";
 import cyberkongz from "./cyberkongz.scss";
-
+import beltfinance from "./beltfinance.scss";
 export default {
   aave,
   aavegotchi,
